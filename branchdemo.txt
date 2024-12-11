@@ -1,2 +1,6 @@
 Creating new file in from branch
+
 Trying to fix merge error
+
+Trying to fix the issue
+Testing cherry-pick by adding code in master 
