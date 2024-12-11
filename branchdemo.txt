@@ -1,1 +1,2 @@
 Creating new file in from branch
+Trying to fix merge error
